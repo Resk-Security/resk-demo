@@ -2,6 +2,8 @@
 
 [![Tableau de bord ReskSafety](screenshot-dashboard.png)](https://demo.resk.fr)
 
+[![Barrière email](screenshot-gate.png)](https://demo.resk.fr)
+
 **Démo : [demo.resk.fr](https://demo.resk.fr)** · **Documentation : [resk.fr/fr/docs/demo](https://resk.fr/fr/docs/demo/)** · **Site : [resk.fr](https://resk.fr)**
 
 Ce dépôt public documente et distribue le kit de la démo hébergée **ReskSafety** : accès protégé par email, identifiants de démonstration, parcours guidé, capture d'écran et fichiers de déploiement. Le code source complet de l'application est privé ; il est disponible pour les clients, évaluateurs et partenaires sur demande.
